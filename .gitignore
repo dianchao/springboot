@@ -6,3 +6,7 @@
 settings/
 .idea/
 *.iml
+jpa/src/test/
+jpa/target/
+mybatis-xml/src/test/
+mybatis/src/test/
