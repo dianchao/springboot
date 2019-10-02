@@ -13,3 +13,5 @@ jdbc/target/
 mybatis-xml/target/
 mybatis/target/
 jpa/target/
+helloworld/target/
+logging/target/
