@@ -15,3 +15,7 @@ mybatis/target/
 jpa/target/
 helloworld/target/
 logging/target/
+helloworld/src/main/resources/
+helloworld/src/test/
+jsp/target/
+restful-crud/target/
