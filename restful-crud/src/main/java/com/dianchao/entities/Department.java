@@ -8,9 +8,9 @@ public class Department {
 	public Department() {
 	}
 	
-	public Department(int i, String string) {
+	public Department(int i, String departmentName) {
 		this.id = i;
-		this.departmentName = string;
+		this.departmentName = departmentName;
 	}
 
 	public Integer getId() {
